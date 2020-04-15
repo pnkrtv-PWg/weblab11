@@ -1,0 +1,41 @@
+h1{
+    color: #006666;
+    font-family: 'Comic Sans MS';
+}
+.button1 {
+    color: white;
+    height: 100%;
+    border-radius: 10px;
+    background: #006666;
+    text-align: center;
+    padding: 5px;
+    width: max-content;
+    margin: 15px auto;
+}
+
+.button1:hover{
+  color: #006666;
+  cursor: pointer;
+  background: white;
+  border: 1px solid #006666;
+  border-radius: 10px;
+}
+
+.button2 {
+    color: white;
+    height: 100%;
+    border-radius: 10px;
+    background: #006666;
+    text-align: center;
+    padding: 5px;
+    width: max-content;
+    margin: 15px auto;
+}
+
+.button2:hover{
+  color: #006666;
+  cursor: pointer;
+  background: white;
+  border: 1px solid #006666;
+  border-radius: 10px;
+}
